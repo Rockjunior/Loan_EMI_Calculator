@@ -53,7 +53,6 @@ Your monthly EMI is: 10257.94
 [![Watch the demo](images/demo-thumbnail.png)](video/Loan_EMI%20-%20Made%20with%20Clipchamp.mp4)
 
 ### Images
-- _Add screenshots of the program running. Place your images in the `Loan_EMI_Calculator` directory and update the links below._
 
 ![Program Start](images/start.png)
 
